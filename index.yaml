@@ -9,6 +9,6 @@ entries:
     name: nginx2
     type: application
     urls:
-    - https://github.com/hotshotsreeram/sample.io.git/nginx2-0.1.0.tgz
+    - https://github.com/hotshotsreeram/sample.io/blob/master/nginx2-0.1.0.tgz
     version: 0.1.0
 generated: "2022-11-29T14:57:03.279085645-05:00"
